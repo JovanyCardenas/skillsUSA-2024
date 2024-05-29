@@ -1,0 +1,7 @@
+[07:00:00] [System] [Start]
+[07:01:00] [N00b] [Joined the game]
+[07:12:00] [Friend] [Joined the game]
+[07:13:00] [N00b] [Was slain]
+[07:15:00] [N00b] [Has perished]
+[07:17:30] [Friend] [Slayed monster]
+[07:20:00] [System] [End]
